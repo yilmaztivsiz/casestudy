@@ -19,9 +19,7 @@ import org.testng.annotations.Test;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class deneme1 {
-
-	WebDriver driver;
-		
+	
 	@Test
 	public void rezervasyon() throws InterruptedException {
 		
